@@ -1,0 +1,51 @@
+body{
+    background-color: brown;
+}
+.bag{
+    text-align: center;
+}
+.mag{
+    font-size: 100px;
+}
+.speech{
+    font-size: 23px;
+    padding: 0px 0px 0px 0px;
+}
+.Reason{
+    font-size:23px ;
+}
+.miracle{
+    text-align: center;
+}
+.capital source{
+    font-size: 23px;
+}
+
+}
+.curriculum{
+    font-size: 23px; 
+}
+.candidates{
+    font-size: 23px; 
+}
+.advice
+.bottom1{
+    border-radius: 30px;
+    background-color: rgb(213, 205, 255);
+}
+
+
+input[type="use"]{
+    padding:10px 300px;
+    border-radius: 20px;
+    color:white;
+    background-color: rgb(39, 39, 107);
+    font-size: 30px;
+    padding-left: 2px;
+}
+.PAGES{
+    font-size :40px ;
+    color: rgb(45, 45, 121);
+}
+
+

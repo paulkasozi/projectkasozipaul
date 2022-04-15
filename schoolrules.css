@@ -1,0 +1,12 @@
+.PAGE2{
+    background-color: brown;
+}
+
+.PAGE3{
+    background-color: brown;
+    .PAGE4{
+    background-color: brown;
+    .PAGE5{
+     background-color: brown;
+    .PAGE6{
+    background-color: brown;
